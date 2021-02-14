@@ -1,0 +1,275 @@
+#wrapper{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 16px;
+	font-family: arial
+}
+
+header{
+	font-size: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-family: impact, arial;
+	color: white;
+	text-shadow: 0 0 5px black;
+}
+nav{
+	text-align: center;
+}
+body{
+	background-color: #8A0808;
+}
+nav ul{
+	list-style-type: none;
+}
+
+nav li{
+	display: inline;
+	font: top;
+	margin: 40px;
+	color: white;
+}
+
+a{
+	color: #777;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+section img{
+	width: 960px;
+	height: 350px;
+	background: white;
+	padding: 15px;
+	
+	background-color: #F2F2F2;
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+}
+
+aside{
+	width: 960px;
+	clear: both;
+	padding: 15px;
+	margin-bottom: 15px;
+	background-color: #F2F2F2;
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+	float: left;
+	text-align: left;
+}
+
+
+aside a{
+	font-size=25px;
+}
+
+aside p{
+	margin: 0px;
+}
+
+.testa li:hover{
+}
+
+.ueber a{
+	font-size: 18px;
+	color: black;
+}
+
+.zeitung{
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-bottom: 10px;
+	border: 1px solid #DEDCD9;
+	padding: 15px;
+}
+
+.bild{
+	
+}
+
+.article{
+	margin-top: 20px;
+	margin-bottom: 50px;
+	font-size: 18px;
+	margin-right: 10px;
+	float: left;
+	background-color: #F2F2F2;
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+	padding: 15px;
+	width: 960px;
+}
+.article img{
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+	border: 1px solid #DEDCD9;
+	background-color: #E5E1E1;
+	
+	
+}
+
+.article a{
+	font-size: 20px;
+}
+
+.vorstellung{
+	height: 360px;
+	border: 1px solid #2E2E2E;
+	margin: 20px;
+	padding: 5px;
+}
+
+.vorstellung p{
+	
+	padding: 7px;
+}
+
+#ralf p{
+	padding: 3px;
+}
+
+.vorstellung a{
+	font-size: 25px;
+}
+
+.vorstellung img{
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+	border: 1px solid #DEDCD9;
+	background-color: #424242;
+	margin: 10px;
+}
+
+.vorstellung h1{
+    font-size: 15px;
+}
+
+.stueck{
+	padding: 5px;
+	margin-right: 10px;
+	margin-top: 40px;
+	border: 1px solid #DEDCD9;
+	height: 550px;
+	
+}
+
+.stueck a{
+	font-size: 20px;
+	margin: 2px;
+	color: #848484;
+}
+
+.stueck img{
+	float: left;
+	padding: 5px;
+	margin: 10px;
+	border: 1px solid #DEDCD9;
+	background-color: #E5E1E1;
+}
+
+.band_stueck{
+	padding: 5px;
+	margin-right: 10px;
+	margin-top: 40px;
+	border: 1px solid #DEDCD9;
+	height: 670px;
+	
+}
+
+.band_stueck a{
+	font-size: 20px;
+	margin: 2px;
+	color: #848484;
+}
+
+.band_stueck img{
+	float: left;
+	padding: 5px;
+	margin: 10px;
+	border: 1px solid #DEDCD9;
+	background-color: #E5E1E1;
+}
+
+.freunde_stueck{
+	padding: 5px;
+	margin-right: 10px;
+	margin-top: 40px;
+	border: 1px solid #DEDCD9;
+	height: 650px;
+	
+}
+
+.freunde_stueck a{
+	font-size: 20px;
+	margin: 2px;
+	color: #848484;
+}
+
+.freunde_stueck img{
+	float: left;
+	padding: 5px;
+	margin: 10px;
+	border: 1px solid #DEDCD9;
+	background-color: #E5E1E1;
+}
+
+.unterschrift{
+	font-size: 18px;
+	color: #424242;
+	margin-top: 2px;
+}
+
+.autor{
+	color: #2E2E2E;
+	font-family: arial;
+	font-size: 18px;
+}
+
+#kontakt{
+	margin-top: 10px;
+}
+
+#kontakt a{
+	font-size: 20px;
+}
+
+footer{
+	height: 20px;
+	clear: both;
+	padding: 15px;
+	background-color: #F2F2F2;
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+	width: 960px;
+	margin-bottom: 15px;
+}
+
+footer ul{
+	text-align: left;
+	padding: 0px;
+	margin: 0px;
+}
+
+footer p{
+	text-align: right;
+	margin-right: 20px;
+}
+
+.Sylvia{
+	font-family: arial;
+	font-size: 18;
+}
+
+.Sylvia a{
+	font-size: 18;
+	color: black;
+}
+
+.tickets{
+	color: #8A0808; 
+}
